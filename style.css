@@ -9,6 +9,9 @@ body{
   background-color:  lightgray;
   color: black;
 }
+i{
+  cursor: pointer;
+}
 
 .navbar{
   display: flex;
@@ -97,5 +100,5 @@ body{
 }
 
 .bi-plus-lg {
-  color: green;
+  color: darkgreen;
 }

@@ -49,7 +49,7 @@ let shopItemsData = [
     desc: 'Strength rests here: Bench, sculpting power and form.',
     img: 'images/img-7.jpg'
 }, {
-    id: 'oooo',
+    id: 'qqqq',
     name: 'Weight Plates',
     price: 30,
     desc: 'symphony: Gym plates, sculpting strength in silence',

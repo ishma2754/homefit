@@ -9,7 +9,7 @@ let shopItemsData = [
   }, 
   {
     id: 'kkkk',
-    name: 'Adjustable Dumbbell',
+    name: 'Adj. Dumbbell',
     price: 40,
     desc: 'Allows customizable weight training ',
     img: 'images/img-2.jpg'
@@ -34,14 +34,14 @@ let shopItemsData = [
     name: 'Barbell',
     price: 60,
     desc: ' Provides resistance to help you build muscle ',
-    img: 'images/img-5.png'
+    img: 'images/img-5.jpg'
 
 }, {
     id: 'oooo',
     name: 'Pull up bar',
     price: 60,
     desc: 'Rise, conquer: Pull-up bar, strength ascends',
-    img: 'images/img-6.png'
+    img: 'images/img-6.jpg'
 }, {
     id: 'pppp',
     name: 'Bench',
@@ -54,4 +54,28 @@ let shopItemsData = [
     price: 30,
     desc: 'symphony: Gym plates, sculpting strength in silence',
     img: 'images/img-8.jpg'
+}, {
+  id: 'rrrr',
+  name: 'Dumbbell',
+  price: 20,
+  desc: 'Lift Your Spirits',
+  img: 'images/img-9.jpg'
+}, {
+  id: 'ssss',
+  name: 'Foam roller',
+  price: 10,
+  desc: 'Roll Out Tension',
+  img: 'images/img-10.jpg'
+}, {
+  id: 'tttt',
+  name: 'Wighted Ball',
+  price: 20,
+  desc: 'Balance the Burn, Embrace the Power',
+  img: 'images/img-11.jpg'
+}, {
+  id: 'uuuu',
+  name: 'Skipping rope',
+  price: 5,
+  desc: 'Jump Into Fitness',
+  img: 'images/img-12.jpg'
 }];
